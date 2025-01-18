@@ -1,0 +1,18 @@
+Gameplay loop
+	Complete platforming section
+	Eat apple at the end
+	Snake tail grows
+	Platforming abilities get better
+	Play new platforming section
+
+Enemies
+	Mice, not aggressive, ignore player
+	Rats, are aggressive, tanky
+	Birds, are not aggressive but avoid/dodge the player
+	Other snake, maybe? Final boss?
+
+
+Abilities
+	Jump, tail length affects height
+	Slash, tail affects range
+	Grapple, tail affects range
